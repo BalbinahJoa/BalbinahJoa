@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @BalbinahJoa
+- 👀 I’m interested in Business Analysis and Data Science
+- 🌱 I’m currently learning Data Science with Python
+- 💞️ I’m looking to collaborate on Data Science projcects
+- 📫 balbinahjoa@gmail.com / https://www.linkedin.com/in/balbinah-joachim/
